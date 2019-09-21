@@ -1,3 +1,3 @@
-def say_hello(name="R")
+def say_hello(name="Ruby Rorgrammer")
   puts "Hello #{name}"
 end
